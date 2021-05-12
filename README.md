@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋
+## Hope you're having a great day! :D
 <!--![Spotify](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)-->
 ![PrinzFlexy's GitHub stats](https://github-readme-stats.vercel.app/api?username=prinzflexy&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prinzflexy&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
