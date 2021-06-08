@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
+
+<a align="left" href="https://www.digitalocean.com/?refcode=195bf9da2be9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinzflexy&label=Profile%20views&color=00ff08&style=flat" alt="prinzflexy" /> </p>
-<a align="right" href="https://www.digitalocean.com/?refcode=195bf9da2be9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
 
 <p align="left"> <a href="https://twitter.com/prinzflexy" target="blank"><img src="https://img.shields.io/twitter/follow/prinzflexy?logo=twitter&style=for-the-badge" alt="prinzflexy" /></a> </p>
 
