@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinzflexy&show_icons=true&theme=dark&title_color=ae7cd0&text_color=ffffff&bg_color=3d3d3d&locale=de" alt="prinzflexy" /></p>
 
-<img alt="GitHub" src="https://img.shields.io/github/license/prinzflexy/prinzflexy?label=Project%20License">
+<a href="https://github.com/PrinzFlexy/PrinzFlexy/blob/5785fb8ffabc2be376eb444cf1e3cceef3627700/LICENSE" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/license/prinzflexy/prinzflexy?label=Project%20License"> </a>
