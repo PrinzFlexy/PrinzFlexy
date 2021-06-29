@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prinzflexy&label=Profile%20views&color=00ff08&style=flat" alt="prinzflexy" /> </p>
-<p align="left"> <img alt="Discord" src="https://img.shields.io/discord/856801825347993660?label=Chillout%20Lounge&style=for-the-badge"> </p>
+<p align="left"> <a href="https://discord.com/invite/HNwBzukyV8" target="blank"><img alt="Discord" src="https://img.shields.io/discord/856801825347993660?label=Chillout%20Lounge&style=for-the-badge" /> </a> </p>
 <p align="left"> <a href="https://twitter.com/prinzflexy" target="blank"><img src="https://img.shields.io/twitter/follow/prinzflexy?logo=twitter&style=for-the-badge" alt="prinzflexy" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js, electron**
