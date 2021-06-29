@@ -4,7 +4,7 @@
 <!-- <p align="left"> <a href="https://github.com/sponsors/PrinzFlexy" target="_blank"> <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/prinzflexy?style=for-the-badge" /> </a> </p> -->
 <p align="left"> <a href="https://twitter.com/prinzflexy" target="_blank"><img src="https://img.shields.io/twitter/follow/prinzflexy?logo=twitter&style=for-the-badge" alt="prinzflexy" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js, electron**
+- 🌱 I’m currently learning <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 
 <h3 align="left">Sponsor/Power my Projects:</h3>
 <a align="left" href="https://www.digitalocean.com/?refcode=195bf9da2be9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
