@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prinzflexy&show_icons=true&theme=dark&title_color=c075db&text_color=ffffff&bg_color=363636&locale=de&layout=compact" alt="prinzflexy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prinzflexy&show_icons=true&theme=dark&title_color=ae7cd0&text_color=ffffff&bg_color=3d3d3d&locale=de" alt="prinzflexy" /></p>
+
+<img alt="GitHub" src="https://img.shields.io/github/license/prinzflexy/prinzflexy?label=Project%20License">
