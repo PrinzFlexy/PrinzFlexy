@@ -6,8 +6,7 @@
 
 - 🌱 I’m currently learning <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/></a> <a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/></a>
 
-<h3 align="left">Sponsor/Power my Projects:</h3>
-<a align="left" href="https://www.digitalocean.com/?refcode=195bf9da2be9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
+<!-- <h3 align="left">Sponsor/Power my Projects:</h3> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
