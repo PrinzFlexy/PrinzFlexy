@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <p align="left"> <a href="https://github.com/felixlammers" target="_blank"><img src="https://komarev.com/ghpvc/?username=prinzflexy&label=Profile%20views&color=00ff08&style=for-the-badge" alt="prinzflexy" /></a></p>
 <!-- <p align="left"> <a href="https://github.com/sponsors/PrinzFlexy" target="_blank"> <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/prinzflexy?style=for-the-badge" /> </a> </p> -->
-<p align="left"> <a href="https://twitter.com/lammersfelix1" target="_blank"><img src="https://img.shields.io/twitter/follow/lammersfelix1?logo=twitter&style=for-the-badge" alt="prinzflexy" /></a> </p>
 
 <!-- - 🌱 I’m currently learning:--> <!--<a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/></a>-->
 
@@ -9,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lammersfelix1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lammersfelix1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15208044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15208044" height="30" width="40" /></a>
 <a href="https://medium.com/@prinzflexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prinzflexy" height="30" width="40" /></a>
 <a href="https://dsc.bio/flexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vdm5ugfqeM" height="30" width="40" /></a>
