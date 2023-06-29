@@ -4,8 +4,6 @@
 
 <!-- - 🌱 I’m currently learning:--> <!--<a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/></a>-->
 
-<!-- <h3 align="left">Sponsor/Power my Projects:</h3> -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15208044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15208044" height="30" width="40" /></a>
