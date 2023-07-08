@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <p align="left"> <a href="https://github.com/felixlammers" target="_blank"><img src="https://komarev.com/ghpvc/?username=prinzflexy&label=Profile%20views&color=00ff08&style=for-the-badge" alt="prinzflexy" /></a></p>
-<!-- <p align="left"> <a href="https://github.com/sponsors/PrinzFlexy" target="_blank"> <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/prinzflexy?style=for-the-badge" /> </a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/sponsors/felixlammers" target="_blank"> <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/felixlammers?style=for-the-badge" /> </a> </p> -->
 
 <!-- - 🌱 I’m currently learning:--> <!--<a href="https://www.electronjs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/></a>-->
 
