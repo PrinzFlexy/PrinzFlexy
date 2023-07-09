@@ -8,7 +8,6 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/15208044" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15208044" height="30" width="40" /></a>
 <a href="https://medium.com/@prinzflexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prinzflexy" height="30" width="40" /></a>
-<a href="https://dsc.bio/flexy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vdm5ugfqeM" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
